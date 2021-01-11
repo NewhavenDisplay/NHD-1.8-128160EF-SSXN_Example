@@ -1,5 +1,5 @@
-# NHD-1.8-128160EF-Sxxx_Example
-Program for writing to Newhaven Display's Full-Color 1.8" TFT NHD-1.8-128160EF-Sxxx Series with ILI1963 controller. This code is designed for our 1.8" TFTs with 3-wire and 4-wire interface and is written for the Arduino Uno. 
+# NHD-1.8-128160EF-SSXN_Example
+Program for writing to Newhaven Display's Full-Color 1.8" TFT NHD-1.8-128160EF-SSXN Series with ILI1963 controller. This code is designed for our 1.8" TFTs with 3-wire and 4-wire interface and is written for the Arduino Uno. 
 
 Purchase a sample from our Product Pages linked below!
 
